@@ -1,0 +1,11 @@
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\bin\Debug\netcoreapp2.0\chapter3.deps.json
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\bin\Debug\netcoreapp2.0\chapter3.runtimeconfig.json
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\bin\Debug\netcoreapp2.0\chapter3.runtimeconfig.dev.json
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\bin\Debug\netcoreapp2.0\chapter3.dll
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\bin\Debug\netcoreapp2.0\chapter3.pdb
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\obj\Debug\netcoreapp2.0\chapter3.csprojAssemblyReference.cache
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\obj\Debug\netcoreapp2.0\chapter3.csproj.CoreCompileInputs.cache
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\obj\Debug\netcoreapp2.0\chapter3.AssemblyInfoInputs.cache
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\obj\Debug\netcoreapp2.0\chapter3.AssemblyInfo.cs
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\obj\Debug\netcoreapp2.0\chapter3.dll
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter3\obj\Debug\netcoreapp2.0\chapter3.pdb

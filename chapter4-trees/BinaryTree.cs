@@ -3,12 +3,12 @@ using System;
 namespace Trees{
     public class BinaryTree
     {
-        private Node<int> Root {get; set;}
+        private Node<int> Root;
 
-        public void Insert(Node<int> current, int value){
-            Create(Root,value);
+        public void Insert(int value){
+            Create(ref Root,value);
         }
-        private void Create(Node<int> current, int value) 
+        private void Create(ref Node<int> current, int value) 
         {
             if(current == null){
                 current = new Node<int>(value);
@@ -16,10 +16,10 @@ namespace Trees{
             }
             else if(current.Value < value)
             {
-                Create(current.Right,value);
+                Create(ref current.Right,value);
             }
             else if(current.Value > value){
-                Create(current.Left,value);
+                Create(ref current.Left,value);
             }
             else{
                 Console.WriteLine("Duplicate");
@@ -28,11 +28,41 @@ namespace Trees{
         }
 
         public void PrintInOrder(){
-            PrintNodes(Root);
+            PrintNodesInOrder(Root);
         }
 
-        private void PrintNodes(Node<int> current){
-            if(current)
+        public void PrintPreOrder(){
+            PrintNodesPreOrder(Root);
+        }
+
+        public void PrintPostOrder(){
+            PrintNodesPostOrder(Root);
+        }
+
+        private void PrintNodesPostOrder(Node<int> current){
+            if(current!=null){
+                
+                PrintNodesPostOrder(current.Left);
+                PrintNodesPostOrder(current.Right);
+                Console.WriteLine(current.Value);
+            }
+        }
+
+        private void PrintNodesPreOrder(Node<int> current){
+            if(current!=null){
+                Console.WriteLine(current.Value);
+                PrintNodesPreOrder(current.Left);
+                PrintNodesPreOrder(current.Right);
+            }
+        }
+
+        private void PrintNodesInOrder(Node<int> current){
+            if(current!=null){
+                PrintNodesInOrder(current.Left);
+                Console.WriteLine(current.Value);
+                PrintNodesInOrder(current.Right);
+            }
+            return;
         }
     }
 }

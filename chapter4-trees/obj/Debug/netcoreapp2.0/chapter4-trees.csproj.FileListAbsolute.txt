@@ -1,0 +1,11 @@
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\bin\Debug\netcoreapp2.0\chapter4-trees.deps.json
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\bin\Debug\netcoreapp2.0\chapter4-trees.runtimeconfig.json
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\bin\Debug\netcoreapp2.0\chapter4-trees.runtimeconfig.dev.json
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\bin\Debug\netcoreapp2.0\chapter4-trees.dll
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\bin\Debug\netcoreapp2.0\chapter4-trees.pdb
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\obj\Debug\netcoreapp2.0\chapter4-trees.csprojAssemblyReference.cache
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\obj\Debug\netcoreapp2.0\chapter4-trees.csproj.CoreCompileInputs.cache
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\obj\Debug\netcoreapp2.0\chapter4-trees.AssemblyInfoInputs.cache
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\obj\Debug\netcoreapp2.0\chapter4-trees.AssemblyInfo.cs
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\obj\Debug\netcoreapp2.0\chapter4-trees.dll
+C:\Users\nspra\OneDrive\Documents\GitHub\CrackingTheCodingInterview\chapter4-trees\obj\Debug\netcoreapp2.0\chapter4-trees.pdb
